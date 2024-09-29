@@ -1,4 +1,3 @@
-Here's a GitHub README section that includes a logic diagram and setup instructions for using KaTo, formatted for easy reading and understanding on a GitHub page:
 
 ---
 
