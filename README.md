@@ -140,4 +140,3 @@ This project is licensed under the [MIT License](LINK_TO_LICENSE) (replace with 
 
 ---
 
-Let me know if you’d like any further changes or additions!
