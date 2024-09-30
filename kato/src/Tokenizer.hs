@@ -15,5 +15,5 @@ tokenize input = filter (not . T.null . T.pack) $ map T.unpack $ T.words $ T.pac
 displayTokens :: [String] -> IO ()
 displayTokens tokens = do     -- IO Monad to handle side effects (printing to console)
     putStrLn $ "Tokens: " ++ show tokens
-                            -- Iterate over tokens and print each one (using mapM_ for IO action)
+                           
 
